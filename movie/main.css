@@ -1,0 +1,21 @@
+* {
+    font-family: 'Jua', sans-serif;
+}
+
+
+body {
+    background-color: white
+}
+
+#jumbotron {
+    padding: 30px 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    text-align: center;
+    background-color: #eee;
+}
+
+#review-button {
+    width: 100%;
+}
